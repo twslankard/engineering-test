@@ -1,5 +1,4 @@
-# zesty.ai engineering test response
-# Tom Slankard <twslankard@protonmail.com>
+Tom Slankard <twslankard@protonmail.com>
 
 ## Features implemented
 
