@@ -4,7 +4,7 @@ Tom Slankard <twslankard@protonmail.com>
 
 I implemented the `display` and `find` methods, plus a couple of other random features:
 
-- **Image transcoding:** most browsers lack native TIFF support. I added the ability to convert the images to jpeg and png using Pillow to premit viewing the images in the browser.
+- **Image transcoding:** most browsers lack native TIFF support. I added the ability to convert the images to jpeg and png using Pillow to permit viewing the images in the browser.
 - **Image caching:** downloading a TIFF and converting it is slow. I use Redis to speed up downloading a previously-requested image.
 
 ## Dependencies
