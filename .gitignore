@@ -1,3 +1,8 @@
 *.iml
 _test
 _submissions/
+
+# TWS
+*.pyc
+*.swp
+venv
